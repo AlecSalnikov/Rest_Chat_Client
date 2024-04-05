@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<initialization>
+    <listInit>
+        <data>2024-04-04T17:56:02.352+03:00</data>
+        <message>Пользователь Bear вошёл в чат</message>
+        <name>CHAT-INFO</name>
+    </listInit>
+    <listInit>
+        <data>2024-04-04T17:56:16.019+03:00</data>
+        <message>Hello, man</message>
+        <name>Bear</name>
+    </listInit>
+    <listInit>
+        <data>2024-04-04T17:56:27.987+03:00</data>
+        <message>How are you</message>
+        <name>Bear</name>
+    </listInit>
+    <listInit>
+        <data>2024-04-04T17:56:33.804+03:00</data>
+        <message>Пользователь Bear покинул чат</message>
+        <name>CHAT-INFO</name>
+    </listInit>
+</initialization>
